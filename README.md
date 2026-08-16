@@ -47,7 +47,27 @@ O projeto contém cinco gráficos principais:
 - Evolução dos novos casos de COVID-19
 - Evolução dos novos óbitos por COVID-19
 - Relação entre população e casos acumulados
+## Visualizações
 
+### Casos acumulados por estado
+
+![Casos acumulados](Grafico%206%20GIT.png)
+
+### Óbitos acumulados por estado
+
+![Óbitos acumulados](Grafico%207%20GIT.png)
+
+### Evolução dos novos casos
+
+![Novos casos](Grafico%208%20GIT.png)
+
+### Relação entre população e casos
+
+![População e casos](Grafico%209%20GIT.png)
+
+### Evolução dos novos óbitos
+
+![Novos óbitos](grafico%2010%20GIT.png)
 ## Conclusão
 
 A análise demonstra como ferramentas de análise de dados podem ser utilizadas para explorar informações epidemiológicas, identificar padrões e comparar diferentes estados brasileiros.
