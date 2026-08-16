@@ -40,13 +40,27 @@ Também foi realizada a análise dos estados com maior número de óbitos acumul
 
 ## Visualizações
 
-O projeto contém cinco gráficos principais:
+## Visualizações
 
-- Top 10 estados com maior número de casos acumulados
-- Top 10 estados com maior número de óbitos acumulados
-- Evolução dos novos casos de COVID-19
-- Evolução dos novos óbitos por COVID-19
-- Relação entre população e casos acumulados
+### 1. Casos acumulados por estado
+
+![Casos acumulados](grafico_1_casos.png)
+
+### 2. Óbitos acumulados por estado
+
+![Óbitos acumulados](grafico_2_obitos.png)
+
+### 3. Evolução dos novos casos
+
+![Evolução dos casos](grafico_3_novos_casos.png)
+
+### 4. Relação entre população e casos
+
+![População e casos](grafico_4_populacao_casos.png)
+
+### 5. Evolução dos novos óbitos
+
+![Evolução dos óbitos](grafico_5_novos_obitos.png)
 ## Visualizações
 
 ### Casos acumulados por estado
