@@ -61,27 +61,7 @@ Também foi realizada a análise dos estados com maior número de óbitos acumul
 ### 5. Evolução dos novos óbitos
 
 ![Evolução dos óbitos](grafico_5_novos_obitos.png)
-## Visualizações
 
-### Casos acumulados por estado
-
-![Casos acumulados](Grafico%206%20GIT.png)
-
-### Óbitos acumulados por estado
-
-![Óbitos acumulados](Grafico%207%20GIT.png)
-
-### Evolução dos novos casos
-
-![Novos casos](Grafico%208%20GIT.png)
-
-### Relação entre população e casos
-
-![População e casos](Grafico%209%20GIT.png)
-
-### Evolução dos novos óbitos
-
-![Novos óbitos](grafico%2010%20GIT.png)
 ## Conclusão
 
 A análise demonstra como ferramentas de análise de dados podem ser utilizadas para explorar informações epidemiológicas, identificar padrões e comparar diferentes estados brasileiros.
