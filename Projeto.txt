@@ -42,27 +42,23 @@ A análise da relação entre população e casos acumulados permite observar co
 
 ## Visualizações
 
-## Visualizações
 
 ### 1. Casos acumulados por estado
 
-![Casos acumulados](grafico_1_casos.png)
+
 
 ### 2. Óbitos acumulados por estado
 
-![Óbitos acumulados](grafico_2_obitos.png)
+
 
 ### 3. Evolução dos novos casos
 
-![Evolução dos casos](grafico_3_novos_casos.png)
 
 ### 4. Relação entre população e casos
 
-![População e casos](grafico_4_populacao_casos.png)
 
 ### 5. Evolução dos novos óbitos
 
-![Evolução dos óbitos](grafico_5_novos_obitos.png)s
 
 ## Conclusão
 
