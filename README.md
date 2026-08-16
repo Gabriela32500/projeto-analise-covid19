@@ -74,3 +74,24 @@ O projeto foi desenvolvido utilizando Python, Pandas e Matplotlib.
 ### Evolução dos novos óbitos
 
 ![Novos óbitos](grafico%2010%20GIT.png)
+## Visualizações
+
+### Casos acumulados por estado
+
+![Casos acumulados](Grafico%206%20GIT.png)
+
+### Óbitos acumulados por estado
+
+![Óbitos acumulados](Grafico%207%20GIT.png)
+
+### Evolução dos novos casos
+
+![Novos casos](Grafico%208%20GIT.png)
+
+### Relação entre população e casos
+
+![População e casos](Grafico%209%20GIT.png)
+
+### Evolução dos novos óbitos
+
+![Novos óbitos](grafico%2010%20GIT.png)
