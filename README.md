@@ -40,6 +40,8 @@ Também foi realizada a análise dos estados com maior número de óbitos acumul
 
 ## Visualizações
 
+## Visualizações
+
 ### Casos acumulados por estado
 
 ![Casos acumulados](Grafico%206%20GIT.png)
