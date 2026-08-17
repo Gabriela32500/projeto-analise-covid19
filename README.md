@@ -40,27 +40,25 @@ Também foi realizada a análise dos estados com maior número de óbitos acumul
 
 ## Visualizações
 
-## Visualizações
+### 1. Casos acumulados por estado
 
-### Casos acumulados por estado
+![Casos acumulados](./Grafico%206%20GIT.png)
 
-![Casos acumulados](Grafico%206%20GIT.png)
+### 2. Óbitos acumulados por estado
 
-### Óbitos acumulados por estado
+![Óbitos acumulados](./Grafico%207%20GIT.png)
 
-![Óbitos acumulados](Grafico%207%20GIT.png)
+### 3. Evolução dos novos casos
 
-### Evolução dos novos casos
+![Novos casos](./Grafico%208%20GIT.png)
 
-![Novos casos](Grafico%208%20GIT.png)
+### 4. Relação entre população e casos
 
-### Relação entre população e casos
+![População e casos](./Grafico%209%20GIT.png)
 
-![População e casos](Grafico%209%20GIT.png)
+### 5. Evolução dos novos óbitos
 
-### Evolução dos novos óbitos
-
-![Novos óbitos](grafico%2010%20GIT.png)
+![Novos óbitos](./grafico%2010%20GIT.png)
 
 ## Conclusão
 
